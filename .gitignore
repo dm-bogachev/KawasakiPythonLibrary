@@ -1,0 +1,3 @@
+venv/*
+*.as
+__pycache__/*
